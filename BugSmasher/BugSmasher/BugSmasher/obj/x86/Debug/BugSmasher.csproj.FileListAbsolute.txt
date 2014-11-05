@@ -6,3 +6,4 @@ C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\ob
 C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\obj\x86\Debug\BugSmasher.exe
 C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\obj\x86\Debug\BugSmasher.pdb
+C:\Users\EAHSCS\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\bin\x86\Debug\Content\windows.xnb

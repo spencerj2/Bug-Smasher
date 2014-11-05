@@ -54,11 +54,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="buttons.png">
-      <Name>buttons</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
     <Compile Include="windows.png">
       <Name>windows</Name>
       <Importer>TextureImporter</Importer>

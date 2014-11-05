@@ -37,7 +37,7 @@ namespace BugSmasher
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
-
+            this.IsMouseVisible = true;
             base.Initialize();
         }
 
@@ -51,6 +51,8 @@ namespace BugSmasher
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             bugs = new List<Sprite>();
+
+            bugs[1] = new Vector2.Zero(-50, 25);
 
             background = Content.Load<Texture2D>("background");
 
@@ -78,6 +80,7 @@ namespace BugSmasher
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
+
             // Allows the game to exit
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed)
                 this.Exit();

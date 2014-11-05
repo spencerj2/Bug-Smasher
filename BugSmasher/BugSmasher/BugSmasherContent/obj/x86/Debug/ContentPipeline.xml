@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2014-11-03T08:32:23.8016-05:00</Time>
+      <Time>2014-11-05T08:13:01.4886-05:00</Time>
     </Item>
     <Item>
       <Source>spritesheet.png</Source>
@@ -17,7 +17,16 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\bin\x86\Debug\Content\spritesheet.xnb</Output>
-      <Time>2014-11-03T08:32:23.8036-05:00</Time>
+      <Time>2014-11-05T08:13:01.5956-05:00</Time>
+    </Item>
+    <Item>
+      <Source>windows.png</Source>
+      <Name>windows</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\EAHSCS\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\bin\x86\Debug\Content\windows.xnb</Output>
+      <Time>2014-11-05T08:13:01.6046-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -25,10 +34,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasherContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasherContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\eahscs\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\EAHSCS\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasherContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\EAHSCS\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\EAHSCS\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasherContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\EAHSCS\Documents\GitHub\Bug-Smasher\BugSmasher\BugSmasher\BugSmasher\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
