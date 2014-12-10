@@ -52,7 +52,6 @@ namespace BugSmasher
 
             bugs = new List<Sprite>();
 
-            bugs[1] = new Vector2.Zero(-50, 25);
 
             background = Content.Load<Texture2D>("background");
 
